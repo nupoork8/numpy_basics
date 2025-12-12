@@ -35,7 +35,3 @@ This repository contains dedicated files (e.g., Jupyter Notebooks or Python scri
     # or
     conda install numpy
     ```
-
-
-
-python 01-array_creation.py
